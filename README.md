@@ -1,12 +1,3 @@
-
-
-Língua de verificação: 
-Português do Brasil
-
-Estilo de escrita: 
-Formal
-Foram detectados: 80 erros ortográficos e 4 erros sintáticos.	Cancelar	   Aceitar Alterações
-
 # Conexão AUTOMÁTICA entre 2 Arduinos via Bluetooth
 O principal objetivo desse projeto é mostrar como configurar os módulos Bluetooth: JDY33 e HC05 para que se contem automaticamente quando estiverem ligados.
 
